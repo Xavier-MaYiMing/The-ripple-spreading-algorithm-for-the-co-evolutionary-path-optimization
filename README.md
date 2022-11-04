@@ -27,7 +27,7 @@ The k shortest paths problem aims to find the shortest path between two nodes in
 
 #### Example
 
-![CEPO](C:\Users\dell\Desktop\研究生\个人算法主页\The ripple-spreading algorithm for the co-evolutionary path optimization\CEPO.gif)
+![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-co-evolutionary-path-optimization/blob/main/CEPO.gif)
 
 The obstacle moves from the lower right corner to the upper right corner with radius = orad and speed = ospeed. The shortest path length is 164.56956372198448.
 
