@@ -308,7 +308,7 @@ def main(network, source, destination, x, y, orad, ospeed):
 
         # Step 3.9. Determine whether the ripple turns to be dead
         for i in range(nr):
-            if state_set[i] == 1 and state_set[i] == 2:
+            if state_set[i] == 1 or state_set[i] == 2:
                 flag = True
                 epicenter = epicenter_set[i]
                 for node in neighbor[epicenter]:
